@@ -13,13 +13,7 @@
 
 </div>
 
-<br/>
-
 ## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 - 💻 Software Development Engineer with **2.5+ years** of experience
 - ⚙️ Backend-focused: **Node.js, Express.js, TypeScript**
@@ -31,42 +25,35 @@
 - 📍 Based in West Bengal, India
 - ⚡ **Fun fact:** Learning and programming are the reasons I wake up every day
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Trinea/trinea/master/src/coder.gif" width="100%" alt="Coding animation" />
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+</p>
 
-**Languages**
+<p align="center">
+  <b>Backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" align="middle" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" align="middle" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+<p align="center">
+  <b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark" />
+</p>
 
-**Backend**
+<p align="center">
+  <b>Databases &amp; Infrastructure</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,githubactions&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark" />
-
-**Databases & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,githubactions&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
-
-</div>
+<p align="center">
+  <b>Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
+</p>
 
 ---
 
@@ -107,32 +94,11 @@ Next.js + Firebase app focused on collaborative document management and modern f
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/rishavgoswami22?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-2c5364?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rishavgoswami22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavgoswami22&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=rishavgoswami22&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavgoswami22&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/rishavgoswami22?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-2c5364?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -140,41 +106,27 @@ Next.js + Firebase app focused on collaborative document management and modern f
 
 I write about backend engineering, performance and things I learn along the way.
 
-<div align="center">
-
-<a href="https://hashnode.com/edit/cms61h0r100000aj41ks71pke">
-  <img src="https://img.shields.io/badge/Read%20my%20blog%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://hashnode.com/edit/cms61h0r100000aj41ks71pke">
+    <img src="https://img.shields.io/badge/Read%20my%20blog%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishavgoswami22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rishavgoswami090@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://hashnode.com/edit/cms61h0r100000aj41ks71pke"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://github.com/rishavgoswami22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/rishavgoswami22/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rishavgoswami090@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://hashnode.com/edit/cms61h0r100000aj41ks71pke">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-<a href="https://github.com/rishavgoswami22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  📧 <b>rishavgoswami090@gmail.com</b> &nbsp;|&nbsp; 📞 <b>+91 7001969025</b>
+</p>
 
-<br/><br/>
-
-📧 **rishavgoswami090@gmail.com** &nbsp;|&nbsp; 📞 **+91 7001969025**
-
-<br/>
-
-### 💻 Building • Learning • Improving
+<h3 align="center">💻 Building • Learning • Improving</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
-
-</div>
