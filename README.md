@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=rishavgoswami22&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/rishavgoswami22?style=for-the-badge&logo=github&color=2c5364" alt="Followers" />
+<a href="https://www.linkedin.com/in/rishavgoswami22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -59,40 +59,26 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 🏥 H2H Healthcare — Sports Rehab Booking Platform
+A full-stack booking platform for sports rehabilitation, built independently end to end. Includes role-based authentication, payments, guest quick-booking and efficient data fetching with React Query.
 
-### 📊 AlgoDesk
-**Spreadsheet Visualizer**
+`React` `React Query` `Node.js` `TypeScript` `Role-Based Auth` `Payments`
 
-React-based spreadsheet app with formula parsing, circular-reference detection, multi-sheet support and CSV/JSON import/export.
+<br/>
 
-`React` `JavaScript` `Algorithms`
+### 📊 AlgoDesk — Spreadsheet Visualizer
+A React-based spreadsheet application with a custom formula parser, circular-reference detection, multi-sheet support and CSV/JSON import/export.
 
-</td>
-<td width="33%" valign="top">
+`React` `JavaScript` `Formula Parser`
 
-### 🎓 StudyNotion
-**EdTech Platform**
+<br/>
 
-MERN-based platform with authentication, role-based access control, course management and Razorpay payment integration.
+### 🎓 StudyNotion — EdTech Platform
+A MERN-based EdTech platform with authentication, role-based access control, course management and Razorpay payment integration.
 
-`MongoDB` `Express` `React` `Node.js`
+`MongoDB` `Express` `React` `Node.js` `Razorpay`
 
-</td>
-<td width="33%" valign="top">
-
-### 📄 Mini Docs Clone
-**Document App**
-
-Next.js + Firebase app focused on collaborative document management and modern frontend architecture.
-
-`Next.js` `Firebase`
-
-</td>
-</tr>
-</table>
+<br/>
 
 <p align="center">
   <a href="https://github.com/rishavgoswami22?tab=repositories">
